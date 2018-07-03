@@ -1,0 +1,14 @@
+{
+  "name": "hexo-offline-tip",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "show offline tip when network is offline (pwa mode)",
+  "keywords": [
+    "hexo",
+    "offline",
+    "pwa"
+  ],
+  "homepage": "https://github.com/xujif/hexo-offline-tip",
+  "author": "i@xujif.com"
+}
