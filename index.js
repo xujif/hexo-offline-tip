@@ -28,7 +28,7 @@ if (hexo.config.offline_tips && hexo.config.offline_tips.enable) {
       return source
     }
     const opt = Object.assign({
-      toastText: '当前处于离线状态',
+      toastText: 'network is off-line',
       toastStyle: 'display:none;position:fixed;left:0;right:0;bottom:0;flex-direction:row;justify-content:space-between;align-items:center;background-color:#dc322f;color:#fff;font-size:16px;height:50px;line-height:50px;padding:0 8px;'
     }, hexo.config.offline_tips.options)
     const inject = hexo.render.renderSync({ text: injectTemplete, engine: 'swig' }, opt)
