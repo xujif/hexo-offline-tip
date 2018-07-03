@@ -18,6 +18,6 @@ offline_tips:
     toastStyle:                                   # optional style eg. 'color: red'
 ```
 
-
+# demo
 ![demo image](https://raw.githubusercontent.com/xujif/hexo-offline-tip/master/demo/offline.png)
 
